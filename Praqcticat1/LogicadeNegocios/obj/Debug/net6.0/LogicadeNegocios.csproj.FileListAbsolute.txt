@@ -1,0 +1,34 @@
+C:\Users\Alumno\Desktop\Praqcticat1\LogicadeNegocios\bin\Debug\net6.0\LogicadeNegocios.deps.json
+C:\Users\Alumno\Desktop\Praqcticat1\LogicadeNegocios\bin\Debug\net6.0\LogicadeNegocios.dll
+C:\Users\Alumno\Desktop\Praqcticat1\LogicadeNegocios\bin\Debug\net6.0\LogicadeNegocios.pdb
+C:\Users\Alumno\Desktop\Praqcticat1\LogicadeNegocios\bin\Debug\net6.0\Accesoadatos.dll
+C:\Users\Alumno\Desktop\Praqcticat1\LogicadeNegocios\bin\Debug\net6.0\Entidadesdenegocio.dll
+C:\Users\Alumno\Desktop\Praqcticat1\LogicadeNegocios\bin\Debug\net6.0\Accesoadatos.pdb
+C:\Users\Alumno\Desktop\Praqcticat1\LogicadeNegocios\bin\Debug\net6.0\Entidadesdenegocio.pdb
+C:\Users\Alumno\Desktop\Praqcticat1\LogicadeNegocios\obj\Debug\net6.0\LogicadeNegocios.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Praqcticat1\LogicadeNegocios\obj\Debug\net6.0\LogicadeNegocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\Praqcticat1\LogicadeNegocios\obj\Debug\net6.0\LogicadeNegocios.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\Praqcticat1\LogicadeNegocios\obj\Debug\net6.0\LogicadeNegocios.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\Praqcticat1\LogicadeNegocios\obj\Debug\net6.0\LogicadeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Praqcticat1\LogicadeNegocios\obj\Debug\net6.0\LogicadeNegocios.csproj.CopyComplete
+C:\Users\Alumno\Desktop\Praqcticat1\LogicadeNegocios\obj\Debug\net6.0\LogicadeNegocios.dll
+C:\Users\Alumno\Desktop\Praqcticat1\LogicadeNegocios\obj\Debug\net6.0\refint\LogicadeNegocios.dll
+C:\Users\Alumno\Desktop\Praqcticat1\LogicadeNegocios\obj\Debug\net6.0\LogicadeNegocios.pdb
+C:\Users\Alumno\Desktop\Praqcticat1\LogicadeNegocios\obj\Debug\net6.0\ref\LogicadeNegocios.dll
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\LogicadeNegocios\bin\Debug\net6.0\LogicadeNegocios.deps.json
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\LogicadeNegocios\bin\Debug\net6.0\LogicadeNegocios.dll
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\LogicadeNegocios\bin\Debug\net6.0\LogicadeNegocios.pdb
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\LogicadeNegocios\bin\Debug\net6.0\Accesoadatos.dll
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\LogicadeNegocios\bin\Debug\net6.0\Entidadesdenegocio.dll
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\LogicadeNegocios\bin\Debug\net6.0\Accesoadatos.pdb
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\LogicadeNegocios\bin\Debug\net6.0\Entidadesdenegocio.pdb
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\LogicadeNegocios\obj\Debug\net6.0\LogicadeNegocios.csproj.AssemblyReference.cache
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\LogicadeNegocios\obj\Debug\net6.0\LogicadeNegocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\LogicadeNegocios\obj\Debug\net6.0\LogicadeNegocios.AssemblyInfoInputs.cache
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\LogicadeNegocios\obj\Debug\net6.0\LogicadeNegocios.AssemblyInfo.cs
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\LogicadeNegocios\obj\Debug\net6.0\LogicadeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\LogicadeNegocios\obj\Debug\net6.0\LogicadeNegocios.csproj.CopyComplete
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\LogicadeNegocios\obj\Debug\net6.0\LogicadeNegocios.dll
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\LogicadeNegocios\obj\Debug\net6.0\refint\LogicadeNegocios.dll
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\LogicadeNegocios\obj\Debug\net6.0\LogicadeNegocios.pdb
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\LogicadeNegocios\obj\Debug\net6.0\ref\LogicadeNegocios.dll

@@ -1,0 +1,24 @@
+C:\Users\Alumno\Desktop\Praqcticat1\Entidadesdenegocio\bin\Debug\net6.0\Entidadesdenegocio.deps.json
+C:\Users\Alumno\Desktop\Praqcticat1\Entidadesdenegocio\bin\Debug\net6.0\Entidadesdenegocio.dll
+C:\Users\Alumno\Desktop\Praqcticat1\Entidadesdenegocio\bin\Debug\net6.0\Entidadesdenegocio.pdb
+C:\Users\Alumno\Desktop\Praqcticat1\Entidadesdenegocio\obj\Debug\net6.0\Entidadesdenegocio.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Praqcticat1\Entidadesdenegocio\obj\Debug\net6.0\Entidadesdenegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\Praqcticat1\Entidadesdenegocio\obj\Debug\net6.0\Entidadesdenegocio.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\Praqcticat1\Entidadesdenegocio\obj\Debug\net6.0\Entidadesdenegocio.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\Praqcticat1\Entidadesdenegocio\obj\Debug\net6.0\Entidadesdenegocio.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Praqcticat1\Entidadesdenegocio\obj\Debug\net6.0\Entidadesdenegocio.dll
+C:\Users\Alumno\Desktop\Praqcticat1\Entidadesdenegocio\obj\Debug\net6.0\refint\Entidadesdenegocio.dll
+C:\Users\Alumno\Desktop\Praqcticat1\Entidadesdenegocio\obj\Debug\net6.0\Entidadesdenegocio.pdb
+C:\Users\Alumno\Desktop\Praqcticat1\Entidadesdenegocio\obj\Debug\net6.0\ref\Entidadesdenegocio.dll
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\Entidadesdenegocio\bin\Debug\net6.0\Entidadesdenegocio.deps.json
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\Entidadesdenegocio\bin\Debug\net6.0\Entidadesdenegocio.dll
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\Entidadesdenegocio\bin\Debug\net6.0\Entidadesdenegocio.pdb
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\Entidadesdenegocio\obj\Debug\net6.0\Entidadesdenegocio.csproj.AssemblyReference.cache
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\Entidadesdenegocio\obj\Debug\net6.0\Entidadesdenegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\Entidadesdenegocio\obj\Debug\net6.0\Entidadesdenegocio.AssemblyInfoInputs.cache
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\Entidadesdenegocio\obj\Debug\net6.0\Entidadesdenegocio.AssemblyInfo.cs
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\Entidadesdenegocio\obj\Debug\net6.0\Entidadesdenegocio.csproj.CoreCompileInputs.cache
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\Entidadesdenegocio\obj\Debug\net6.0\Entidadesdenegocio.dll
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\Entidadesdenegocio\obj\Debug\net6.0\refint\Entidadesdenegocio.dll
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\Entidadesdenegocio\obj\Debug\net6.0\Entidadesdenegocio.pdb
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\Entidadesdenegocio\obj\Debug\net6.0\ref\Entidadesdenegocio.dll

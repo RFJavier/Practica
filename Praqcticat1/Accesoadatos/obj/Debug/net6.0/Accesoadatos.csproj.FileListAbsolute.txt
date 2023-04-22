@@ -1,0 +1,30 @@
+C:\Users\Alumno\Desktop\Praqcticat1\Accesoadatos\bin\Debug\net6.0\Accesoadatos.deps.json
+C:\Users\Alumno\Desktop\Praqcticat1\Accesoadatos\bin\Debug\net6.0\Accesoadatos.dll
+C:\Users\Alumno\Desktop\Praqcticat1\Accesoadatos\bin\Debug\net6.0\Accesoadatos.pdb
+C:\Users\Alumno\Desktop\Praqcticat1\Accesoadatos\bin\Debug\net6.0\Entidadesdenegocio.dll
+C:\Users\Alumno\Desktop\Praqcticat1\Accesoadatos\bin\Debug\net6.0\Entidadesdenegocio.pdb
+C:\Users\Alumno\Desktop\Praqcticat1\Accesoadatos\obj\Debug\net6.0\Accesoadatos.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Praqcticat1\Accesoadatos\obj\Debug\net6.0\Accesoadatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\Praqcticat1\Accesoadatos\obj\Debug\net6.0\Accesoadatos.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\Praqcticat1\Accesoadatos\obj\Debug\net6.0\Accesoadatos.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\Praqcticat1\Accesoadatos\obj\Debug\net6.0\Accesoadatos.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Praqcticat1\Accesoadatos\obj\Debug\net6.0\Accesoadatos.csproj.CopyComplete
+C:\Users\Alumno\Desktop\Praqcticat1\Accesoadatos\obj\Debug\net6.0\Accesoadatos.dll
+C:\Users\Alumno\Desktop\Praqcticat1\Accesoadatos\obj\Debug\net6.0\refint\Accesoadatos.dll
+C:\Users\Alumno\Desktop\Praqcticat1\Accesoadatos\obj\Debug\net6.0\Accesoadatos.pdb
+C:\Users\Alumno\Desktop\Praqcticat1\Accesoadatos\obj\Debug\net6.0\ref\Accesoadatos.dll
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\Accesoadatos\bin\Debug\net6.0\Accesoadatos.deps.json
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\Accesoadatos\bin\Debug\net6.0\Accesoadatos.dll
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\Accesoadatos\bin\Debug\net6.0\Accesoadatos.pdb
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\Accesoadatos\bin\Debug\net6.0\Entidadesdenegocio.dll
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\Accesoadatos\bin\Debug\net6.0\Entidadesdenegocio.pdb
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\Accesoadatos\obj\Debug\net6.0\Accesoadatos.csproj.AssemblyReference.cache
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\Accesoadatos\obj\Debug\net6.0\Accesoadatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\Accesoadatos\obj\Debug\net6.0\Accesoadatos.AssemblyInfoInputs.cache
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\Accesoadatos\obj\Debug\net6.0\Accesoadatos.AssemblyInfo.cs
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\Accesoadatos\obj\Debug\net6.0\Accesoadatos.csproj.CoreCompileInputs.cache
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\Accesoadatos\obj\Debug\net6.0\Accesoadatos.csproj.CopyComplete
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\Accesoadatos\obj\Debug\net6.0\Accesoadatos.dll
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\Accesoadatos\obj\Debug\net6.0\refint\Accesoadatos.dll
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\Accesoadatos\obj\Debug\net6.0\Accesoadatos.pdb
+C:\Users\Javier Rivera\OneDrive\Desktop\Practica\Praqcticat1\Accesoadatos\obj\Debug\net6.0\ref\Accesoadatos.dll
